@@ -1,0 +1,56 @@
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.topstrip {
+    color: white;
+    font-family: Franklin Gothic Heavy;
+    text-align: center;
+    background-image: url("topstrip.jpg");
+    width: auto;
+    height: 155px;
+    padding-top: 83px;
+    font-size: 40px;
+}
+
+.box1 {
+    display: inline-block;
+    background-image: url(development.jpg);
+    height: 661px;
+    width: 490px;
+    margin-top: 90px;
+    margin-bottom: 90px;
+    float:left
+
+}
+
+.box2 {
+    display: inline-block;
+    background-image: url(design.jpg);
+    height: 661px;
+    width: 490px;
+    margin-top: 90px;
+    margin-bottom: 90px;
+    margin-left: 25px;
+}
+
+.box3 {
+    display: inline-block;
+    background-image: url(gifthub.jpg);
+    float: right;
+    height: 661px;
+    width: 490px;
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+
+.text2 {
+    color: white;
+    text-align: center;
+    font-family: Franklin Gothic Demi Cond;
+    font-size: 28px;
+    padding:25px ;
+}
+

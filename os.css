@@ -1,0 +1,32 @@
+.our-service{
+    height: 350px;
+    background:rgba(0, 0, 0, 0.5);
+    
+}
+#staticbgofos
+{
+    background-image:url('bgfixed1.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;  
+}
+#ss
+{
+    font-family: Franklin Gothic Heavy;
+    color: white;
+    font-size:98px;
+    font-weight:700;
+    text-align: center;
+}
+#te
+{
+    font-family:var(--font_8) ;
+    color:#b4f0ff;
+    font-size:24px;
+    text-align: center;
+    font-weight:500;
+    padding:35px;
+    margin-top:-55px;
+    line-height: normal;
+
+}

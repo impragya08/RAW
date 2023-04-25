@@ -1,0 +1,129 @@
+#logooftrozenweb
+{
+    height:70px;
+    width:251px;
+    margin-left:40px;
+    margin-top:41px;
+}
+#tagline
+{
+    margin-left:50px;
+    font-family: "Inter",sans-serif!important;
+    color: white;
+    font-size:24px;
+    font-weight:220;
+    
+}
+#socialmedia
+{
+    color:white;
+    display:flex;
+    flex-direction: around;
+    padding:50px;
+}
+#facebook:hover
+{
+   fill:#1877F2;
+}
+#youtube:hover{
+    fill:#FF0000;
+     
+}
+
+#discord:hover{
+    fill:#6665D2;
+}
+
+#telegram:hover{
+    fill:#2FABE1;
+}
+#facebook:hover{
+
+    fill:#1877F2;
+}
+#twitter:hover{
+    fill:#1D9BF0;
+}
+
+#linkedin:hover{
+fill:#2567B3;
+
+}
+#insta:hover{
+    
+    fill:radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+}#youtube:hover{
+    fill:#FF0000;
+     
+}
+
+#discord:hover{
+    fill:#6665D2;
+}
+
+#telegram:hover{
+    fill:#2FABE1;
+}
+#facebook:hover{
+
+    fill:#1877F2;
+}
+#twitter:hover{
+    fill:#1D9BF0;
+}
+
+#linkedin:hover{
+fill:#2567B3;
+
+}
+#instagram:hover
+{
+    
+    fill:#d6249f;
+}
+#headingofMP
+{
+    font-family: "Inter",sans-serif!important;
+    font-size:28px;
+    font-weight:700;
+    color: white;
+    margin-top:54px;
+    margin-left:350px;
+}
+#marketplace
+{
+    font-family:"Inter",sans-serif!important;
+    font-size:20px;
+    color:white;
+    margin-left:350px;
+    font-weight:300;
+}
+#marketplacet
+{
+    font-family:"Inter",sans-serif!important;
+    font-size:20px;
+    color:white;
+    margin-left:150px;
+    font-weight:300;
+}
+#company
+{
+    margin-left:70px;
+}
+#headingofC
+{
+    font-family: "Inter",sans-serif!important;
+    font-size:28px;
+    font-weight:700;
+    color: white;
+    margin-top:54px;
+    margin-left:150px;
+ 
+}
+#copyright
+{
+    margin-top:50px;
+    font-family:"Inter",sans-serif!important;
+    text-align: center;
+    color:rgba(255, 255, 255, 0.507);
+}

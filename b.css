@@ -1,0 +1,91 @@
+.blog
+{
+    height: 800px;
+    background:black;
+  
+}
+#blogheading
+{
+    font-family: Franklin Gothic Heavy;
+    color: white;
+    font-size:98px;
+    font-weight:700;
+    text-align: center;
+   
+}
+#blognumber1
+{
+    margin-left:250px;
+    height:540px;
+    width:248px;
+    padding-top:0.3px;
+    background-image: url('bgblog.png');
+    background-size: cover;
+    
+}
+#blogimage
+{
+    width:205px;
+    height:148px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:20px;
+    
+}
+#bloginnerheading
+{
+    font-family: Franklin Gothic Heavy;
+    color: white;
+    font-size:24px;
+    font-weight:220;
+    text-align: center;
+   
+}
+#contentforAI
+{
+    font-family: Franklin Gothic ;
+    color: white;
+    text-align: center;
+    font-size:18px;
+    font-weight:100;
+     padding:20px;
+     margin-top:-15px;
+     line-height: normal;
+
+}
+#contentby
+{
+    font-family: Franklin Gothic;
+    font-style:italic;
+    color: white;
+    text-align: center;
+    font-size:18px;
+    font-weight:100;
+     padding:20px;
+     margin-top:-15px;
+     line-height: normal;
+   
+
+}
+#buttoninside
+{
+    background-color: #ffd220;
+    font-family:var(--fnt,var(--font_1));
+    padding: 3px 30px;
+    font-weight:700;
+   
+    font-size:20px;
+    margin-top:-20px;
+    padding:0px 60px;
+    margin-left:40px;
+    border:none;
+}
+#buttoninside:hover{
+  
+    background-color:black;
+    color:white;
+    
+  }
+
+  

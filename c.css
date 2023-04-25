@@ -1,0 +1,94 @@
+.course
+{
+    height:900px;
+    background-image: url('coursesbackground.png');
+    background-repeat: no-repeat;
+    background-size:cover;   
+}
+#staticbg
+{
+    height:900px;
+    background-image: url('bgfixed1.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;  
+}
+#r
+{
+    font-family: Franklin Gothic Heavy;
+    color: white;
+    font-size:98px;
+    font-weight:700;
+    text-align: center;
+   
+}
+
+#i
+{
+    margin-left: 60px;
+    height:620px;
+    width:440px;
+    background-image:url('svs.png');
+    background-size:cover;
+    border: 10px solid black;
+    border-radius:15px;
+}
+
+.img
+{
+    width:205px;
+    height:148px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:39px;
+    
+}
+
+#fontforweb
+{
+    font-family: Franklin Gothic Heavy;
+    color: white;
+    text-align: center;
+    font-size:30px;
+    font-weight:150;
+    margin-top:05px;
+
+}
+
+#content
+{
+    font-family: Franklin Gothic ;
+    color: white;
+    text-align: center;
+    font-size:24px;
+    font-weight:100;
+     padding:75px;
+     margin-top:-90px;
+     line-height: normal;
+
+}
+
+#startlearningbtn
+{
+    background-color: #ffd220;
+    font-family:var(--fnt,var(--font_1));
+    padding: 3px 30px;
+    font-weight:500;
+    font-family: Franklin Gothic Heavy;
+    font-size:30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -35px;
+    border:none;
+
+    
+}
+#startlearningbtn:hover
+{
+  
+    background-color:black;
+    color:white;
+    
+  }

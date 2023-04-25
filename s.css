@@ -1,0 +1,25 @@
+
+#navbarSupportedContent li a{
+  
+  text-transform: uppercase;
+  font-family: Franklin Gothic Heavy ;
+  font-weight: bolder;
+  padding-right: 40px;
+  font-size: 30px;
+  color:white;
+  margin-top: 11px;
+  
+}
+
+#navbarSupportedContent ul li a:hover {
+  font-size: 32px;
+  font-weight: bold;
+  color: #d13142;
+  
+}
+
+svg:hover{
+  
+  fill:#777FFE;
+  
+}

@@ -1,0 +1,76 @@
+.learn
+{
+    margin-top: 0px;
+    height: 735px;
+    background-image: url('Background.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+    
+}
+#staticbgoflearn
+{
+   
+    background-image:url('bgfixed1.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;  
+}
+
+
+#t
+{
+    font-family : Franklin Gothic Heavy ;
+    font-size: 55px;
+    color: white;
+    text-shadow:
+    2px 0 0px , 2px 0 0px , 2px 0 0px ;
+    padding-left: 34px;
+    padding-top:45px;
+    font-weight:50;
+}
+#temp
+{
+    font-family : Franklin Gothic Heavy;
+    font-size: 55px;
+    color: white;
+    text-shadow:
+    2px 0 0px , 2px 0 0px , 2px 0 0px ;
+    padding-left: 34px;
+    padding-top:45px;
+    font-weight:50;
+    margin-top:-82px;
+}
+
+#btn
+{
+    
+    font-size:35px;
+    margin-top:-10px;
+    padding-top:-40px;
+    padding-left:30px;
+    
+}
+#buttonforlearn
+{
+   
+    background-color: #ffd220;
+    font-family:var(--fnt,var(--font_1));
+    padding:3px 30px;
+    font-weight:700;
+    border:none;
+    
+}
+#buttonforlearn:hover{
+  
+    background-color:black;
+    color:white;
+    
+  }
+
+
+
+  
+  
+   
+  
